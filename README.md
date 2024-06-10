@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @susannahb828
-- 👀 I’m interested in Crytp  
+- 👀 I’m interested in Crypto
 - 🌱 I’m currently learning Ethereum
 - 💞️ I’m looking to collaborate on L2 projects
 - 📫 How to reach me ...
